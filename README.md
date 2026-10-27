@@ -7,7 +7,7 @@ SDG 3, SDG 4, dan SDG 16
 1. Nama : Akwila Agung Firmannew : NIM-2515091092 Tugas
 2. Nama : I Kadek Dwi Pradnya Dita Putra NIM-2515091064 Tugas
 3. Nama : Evodius Evan Malachi NIM-2515091106 Tugas
-4. Nama : NIM- Tugas
+4. Nama : Komang Ade Rizky Ariawansyah NIM-2515091025 Tugas
 ## Deskripsi Website 
 Tujuan, manfaat, dan sasaran pengguna.
 
