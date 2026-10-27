@@ -15,7 +15,8 @@ Tujuan, manfaat, dan sasaran pengguna.
 Beranda, Edukasi, Panduan, Artikel, Tentang. 
 ## Teknologi 
 HTML5, CSS3, Flexbox/Grid, CSS Media Queries. 
-## Penjelasan Implementasi Jelaskan navigasi, layout, responsive design, dan bagian kode HTML/CSS yang penting. Sertakan potongan kode beserta fungsinya. 
+## Penjelasan Implementasi 
+Jelaskan navigasi, layout, responsive design, dan bagian kode HTML/CSS yang penting. Sertakan potongan kode beserta fungsinya. 
 ## Struktur Folder Jelaskan susunan file dan direktori. 
 ## Website dan Repository URL GitHub Pages dan URL repository. 
 ## Referensi Sumber informasi, gambar, dan aset.
