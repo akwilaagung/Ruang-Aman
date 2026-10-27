@@ -1,11 +1,12 @@
 # Ruang Aman 
-Website Edukasi  
+Website Edukasi Kesehatan Mental dan Antiperundungan
+SDG 3, SDG 4, dan SDG 16
 
 
 ## Anggota Kelompok 
-1. Nama : NIM- Tugas
-2. Nama : NIM- Tugas
-3. Nama : NIM- Tugas
+1. Nama : Akwila Agung Firmannew : NIM-2515091092 Tugas
+2. Nama : I Kadek Dwi Pradnya Dita Putra NIM-2515091064 Tugas
+3. Nama : Evodius Evan Malachi NIM-2515091106 Tugas
 4. Nama : NIM- Tugas
 ## Deskripsi Website 
 Tujuan, manfaat, dan sasaran pengguna.
